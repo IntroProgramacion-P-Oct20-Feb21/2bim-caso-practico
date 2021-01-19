@@ -1,4 +1,4 @@
-# 2 Bimeste - Caso - Práctico
+# 2 Bimestre - Caso - Práctico
 ## Segundo Bimestre 
 
 ***
